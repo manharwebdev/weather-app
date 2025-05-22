@@ -34,4 +34,3 @@ This is a simple weather app built with **React.js**. It allows users to enter a
 ```bash
 git clone https://github.com/your-username/react-weather-app.git
 cd react-weather-app
-
