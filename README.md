@@ -36,3 +36,4 @@ git clone https://github.com/your-username/react-weather-app.git
 cd react-weather-app
 
 yes everything is Okay
+all is okay bro
