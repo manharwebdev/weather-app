@@ -41,7 +41,7 @@
       background-color: #3498db;
       color: white;
       border: none;
-      border-radius: 8px;
+      border-radius: 10px;
       cursor: pointer;
     }
 
