@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="app">
-      <h1>🌤️ Weather App</h1>
+      <h1>🌤️ Weather App for Map</h1>
       <input
         type="text"
         placeholder="Enter city..."
